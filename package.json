@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Kaybangz.github.io/Add-to-cart",
+  "homepage": "https://Kaybangz.github.io/AddToCart",
   "name": "react_e-commerce",
   "version": "0.1.0",
   "private": true,
@@ -43,5 +43,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
