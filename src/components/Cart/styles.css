@@ -91,7 +91,8 @@
 .cart_item_name h3 {
   font-size: 2rem;
   font-weight: 800;
-  margin-right: 0.6rem;
+  margin-right: 0.2rem;
+  margin-bottom: .6rem;
 }
 
 .cart_item_name h4 {
@@ -181,24 +182,25 @@
   background: #8f5ecf;
 }
 
-.stripe_btn_container {
+.checkout_btn_container {
   width: 97%;
   max-width: 900px;
   margin: 0 auto;
   margin-top: 2rem;
 }
 
-.stripe_btn_container button {
+.checkout_btn_container button {
   width: 100%;
   outline: none;
   border: none;
-  border: 2px solid #6013c5;
+  border: 1px solid #6013c5;
   color: #6013c5;
   padding: 8px;
   border-radius: 5px;
   font-size: 1.2rem;
   font-weight: 500;
   transition: all .3s ease-in-out;
+  margin-top: 1rem;
 }
 
 .stripe_btn_container button:hover {
@@ -266,12 +268,12 @@
   }
 
   .cart_item_container {
-    height: 260px;
+    height: 250px;
     grid-template-columns: 2fr 2fr;
   }
 
   .cart_item_image {
-    height: 240px;
+    height: 230px;
   }
 
   .cart_item_name h3 {

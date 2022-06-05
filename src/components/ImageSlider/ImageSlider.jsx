@@ -7,8 +7,8 @@ import {BsArrowLeftCircle, BsArrowRightCircle} from "react-icons/bs"
 const ImageSlider = () => {
   const sliderProperties = {
     indicators: true,
-    prevArrow: <div style={{width: "40px", marginRight: "-45px", fontSize: "4rem", color: "white", cursor: "pointer"}}><BsArrowLeftCircle/></div>,
-    nextArrow: <div style={{width: "40px", marginLeft: "-45px", fontSize: "4rem", color: "white", cursor: "pointer"}}><BsArrowRightCircle/></div>,
+    prevArrow: <div style={{width: "39px", marginRight: "-40px", fontSize: "4rem", color: "white", cursor: "pointer"}}><BsArrowLeftCircle/></div>,
+    nextArrow: <div style={{width: "39px", marginLeft: "-40px", fontSize: "4rem", color: "white", cursor: "pointer"}}><BsArrowRightCircle/></div>,
   };
 
   return (

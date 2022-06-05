@@ -108,9 +108,9 @@ const Cart = ({
         )}
 
         {cartItems.length !== 0 && (
-          <section className="stripe_btn_container">
+          <section className="checkout_btn_container">
             <Link to="/checkout" state={{totalAmount:  totalPrice}}>
-              <button className="stripe_btn">Proceed to checkout</button>
+              <button className="checkout_btn">Proceed to checkout</button>
             </Link>
           </section>
         )}
