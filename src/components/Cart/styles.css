@@ -315,20 +315,20 @@
   }
 
   .cart_item_name h3 {
-    font-size: 1.6rem;
+    font-size: 1.3rem;
   }
 
   .cart_item_name h4 {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
   }
 
   .increment_decrement_func h4{
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     font-weight: 900;
   }
 
   .item_qty_display h4{
-    font-size: 1.1rem;
+    font-size: 1rem;
     font-weight: 700;
   }
 
