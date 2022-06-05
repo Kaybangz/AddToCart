@@ -26,7 +26,7 @@ const ImageSlider = () => {
         <div className="each-slide">
           <div
             style={{
-              backgroundImage: `linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(26,21,199,0.3337710084033614) 0%, rgba(176,2,238,0.5102415966386555) 100%, rgba(0,223,198,0.7455357142857143) 100%), url(${"https://media.istockphoto.com/photos/happy-bearded-man-wears-blue-sweater-on-violet-background-friendly-picture-id1383060926?k=20&m=1383060926&s=612x612&w=0&h=NeOlMu4Pjw6vALVgtkeuGaVPxsDuPxeZZFJvgIGmUJU="})`,
+              backgroundImage: `linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(26,21,199,0.3337710084033614) 0%, rgba(176,2,238,0.5102415966386555) 100%, rgba(0,223,198,0.7455357142857143) 100%), url(${"https://media.istockphoto.com/photos/sweet-smiling-female-posing-in-studio-picture-id1157382656?b=1&k=20&m=1157382656&s=170667a&w=0&h=98BuK8UK2600soZSWFrv40l_XkePpssmbpmrh6IJ39I="})`,
             }}
           >
             <span>Affordable</span>
@@ -45,7 +45,7 @@ const ImageSlider = () => {
         <div className="each-slide">
           <div
             style={{
-              backgroundImage: `linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(26,21,199,0.3337710084033614) 0%, rgba(2,238,216,0.5158438375350141) 100%, rgba(0,223,198,0.7455357142857143) 100%), url(${"https://media.istockphoto.com/photos/handsome-man-laughing-picture-id1090837964?k=20&m=1090837964&s=612x612&w=0&h=gvtsMUOB85MNWwbso1ZgfwfdMbLBTwTjkxPTbfTW4d0="})`,
+              backgroundImage: `linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(26,21,199,0.3337710084033614) 0%, rgba(2,238,216,0.5158438375350141) 100%, rgba(0,223,198,0.7455357142857143) 100%), url(${"https://media.istockphoto.com/photos/portrait-of-a-young-pretty-female-student-in-a-white-hoodie-casual-picture-id1248498822?b=1&k=20&m=1248498822&s=170667a&w=0&h=uG2LCA-ZMzAK1SwrxHLmYVr06BYQPbaLD7KRZLkaBSg="})`,
             }}
           >
             <span>Trendy</span>
