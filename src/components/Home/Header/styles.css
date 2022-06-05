@@ -1,0 +1,53 @@
+.header__container{
+    max-width: 100%;
+    width: 100%;
+    background: #b388eb;
+    padding: .7rem .2rem;
+    position: fixed;
+    top: 0;
+    z-index: 999;
+}
+
+.nav__items{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: .5rem .5rem;
+}
+
+.nav__items h2{
+    font-weight: 900;
+    color: #511c52;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    font-family: 'Fredoka';
+}
+
+.nav__items .btn{
+    background: #c48ac5;
+    color: rgb(41, 38, 38);
+    font-weight: 600;
+    color: white;
+    margin-right: .5rem;
+}
+
+.nav__items .btn:hover{
+    background: #a670a7;
+    color: white;
+}
+
+.nav__items .btn .pill{
+    background: #7d3d7e;
+    color: white;
+    font-weight: 900;
+    font-size: 1rem;
+}
+
+.cart__icon{
+    font-size: 1.9rem;
+}
+
+.nav__items span{
+    background: #8093f1;
+}
